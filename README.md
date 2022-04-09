@@ -1,5 +1,9 @@
+* :wave:Hello,I am IceAbyss,a junior high school student:school:.
+* :book:My favorite programming language is Python:snake:.
+* :pencil:I enjoy writing code, it brings me joy:smile:.
+
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2C%20World!%22);IceAbyss&center=true&size=27"> </a> </h1>
-<h2>:wave:Hello, I am a junior high school student. My favorite programming language is Python:snake:</h2>
+
 
 <div align="center"> <img src="https://metrics.lecoq.io/Ice-Abyss?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Ice-Abyss&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"  />
