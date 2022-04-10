@@ -1,6 +1,7 @@
 * :wave:Hello,I am IceAbyss,a junior high school student:school:.
 * :book:My favorite programming language is Python:snake:.
 * :pencil:I enjoy writing code, it brings me joy:smile:.
+* :bust_in_silhouette:My dream is to be a full stack engineer:globe_with_meridians:.
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2C%20World!%22);IceAbyss&center=true&size=27"> </a> </h1>
 
