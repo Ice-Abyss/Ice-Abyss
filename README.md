@@ -1,11 +1,15 @@
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2C%20World!%22);IceAbyss&center=true&size=27"> </a> </h1>
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/ice-abyss/count.svg)visitor
+
 * :wave:Hello,I am IceAbyss,a junior high school student:school:.
 * :book:My favorite programming language is Python:snake:.
 * :pencil:I enjoy writing code, it brings me joy:smile:.
 * :bust_in_silhouette:My dream is to be a full stack engineer:globe_with_meridians:.
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2C%20World!%22);IceAbyss&center=true&size=27"> </a> </h1>
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/ice-abyss/count.svg)visitor
+
+
 
 
 <!--<div align="center"> <img src="https://metrics.lecoq.io/Ice-Abyss?template=classic&config.timezone=Asia%2FShanghai"> </div>--!>
