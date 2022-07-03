@@ -5,11 +5,11 @@
 ![decription](https://img.shields.io/badge/IceAbyss-Linux-lightgrey)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/ice-abyss/count.svg)visitor
-* ✨Cheer up for the middle school entrance examination!!!💯💯💯
 * :wave:Hello,I am IceAbyss,a junior high school student:school:.
 * :book:My favorite programming language is Python:snake:.
 * :pencil:I enjoy writing code, it brings me joy:smile:.
 * :bust_in_silhouette:My dream is to be a full stack engineer:globe_with_meridians:.
+* 😀The high school entrance examination is over, the summer vacation is coming, I can learn computer programming, happy!😀
 
 
 <details>
