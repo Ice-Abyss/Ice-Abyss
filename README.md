@@ -3,6 +3,8 @@
 ![decription](https://img.shields.io/badge/IceAbyss-Python-blue)
 ![decription](https://img.shields.io/badge/IceAbyss-Github-orange)
 ![decription](https://img.shields.io/badge/IceAbyss-Linux-lightgrey)
+![decription](https://img.shields.io/badge/IceAbyss-AutoIt-blue)
+![decription](https://img.shields.io/badge/IceAbyss-Web-red)  
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/ice-abyss/count.svg)visitor
 * :wave:Hello,I am IceAbyss,a junior high school student:school:.
