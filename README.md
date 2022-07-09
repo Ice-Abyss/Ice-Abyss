@@ -14,6 +14,10 @@
   ![web1](https://cdn.staticaly.com/gh/Ice-Abyss/Img-Repository@master/20220709/web1.b1f0hf0b7qo.webp)
  
  </figure>
+ 
+ 
+ 
+ 
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/ice-abyss/count.svg)visitor
 * :wave:Hello,I am IceAbyss,a junior high school student:school:.
@@ -29,7 +33,15 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/ice-abyss/count.sv
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ice-Abyss&theme=dark&layout=compact)
 
+</code></pre>
+</details>
 
+
+<details>
+<summary>My WindowsXP😂</summary>
+<pre><code>
+
+ ![xp](https://cdn.staticaly.com/gh/Ice-Abyss/Img-Repository@master/20220709/xp.6hkjori0wts0.gif)
 
 </code></pre>
 </details>
@@ -52,6 +64,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/ice-abyss/count.sv
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ice-Abyss&theme=dark&layout=compact)
   
 </figure>--!>
+
 
 
 
