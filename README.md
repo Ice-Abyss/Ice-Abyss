@@ -10,8 +10,8 @@
 
 <figure class ="half">
  
-  ![logo2_281x281](https://cdn.staticaly.com/gh/Ice-Abyss/Img-Repository@master/20220709/logo2_281x281.6nntqs9f6t00.webp) 
-  ![web1](https://cdn.staticaly.com/gh/Ice-Abyss/Img-Repository@master/20220709/web1.29eazdzxdfwg.webp)
+  ![logo2_253x253](https://cdn.staticaly.com/gh/Ice-Abyss/Img-Repository@master/20220709/logo2_253x253.306gq4zoyls0.webp)
+  ![web1](https://cdn.staticaly.com/gh/Ice-Abyss/Img-Repository@master/20220709/web1.b1f0hf0b7qo.webp)
  
  </figure>
 
