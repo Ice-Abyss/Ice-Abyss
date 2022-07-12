@@ -25,13 +25,20 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/ice-abyss/count.sv
 * :pencil:I enjoy writing code, it brings me joy:smile:.
 * :bust_in_silhouette:My dream is to be a full stack engineer:globe_with_meridians:.
 * 😀The high school entrance examination is over, the summer vacation is coming, I can learn computer programming, happy!😀
+* 
 
 
 <details>
-<summary>github statistics</summary>
+<summary>github statistics📊</summary>
 <pre><code>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ice-Abyss&theme=dark&layout=compact)
+<figure class ="half">
+
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ice-Abyss&theme=dark&layout=compact)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ice-Abyss&show_icons=true&theme=dark&count_private=true)
+ 
+  
+</figure>
 
 </code></pre>
 </details>
@@ -46,24 +53,24 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/ice-abyss/count.sv
 </code></pre>
 </details>
 
- <!--<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ice-Abyss&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />--!>
+<!--<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ice-Abyss&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 
-<!--<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Ice-Abyss&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />--!>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Ice-Abyss&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 
 
-<!--<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Ice-Abyss&theme=xcode" /> </div>--!>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Ice-Abyss&theme=xcode" /> </div>
 
-<!--<div align="center"> <img src="https://metrics.lecoq.io/Ice-Abyss?template=classic&config.timezone=Asia%2FShanghai"> </div>--!>
+<div align="center"> <img src="https://metrics.lecoq.io/Ice-Abyss?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 
 
-<!--<figure class ="half">
+<figure class ="half">
 
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ice-Abyss&show_icons=true&theme=dark&count_private=true)
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ice-Abyss&theme=dark&layout=compact)
   
-</figure>--!>
+</figure>-->
 
 
 
