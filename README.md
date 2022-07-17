@@ -11,7 +11,7 @@
 <figure class ="half">
  
   ![logo2_253x253](https://cdn.staticaly.com/gh/Ice-Abyss/Img-Repository@master/20220709/logo2_253x253.306gq4zoyls0.webp)
-  ![web1](https://cdn.staticaly.com/gh/Ice-Abyss/Img-Repository@master/20220709/web1.b1f0hf0b7qo.webp)
+  ![web](https://cdn.staticaly.com/gh/Ice-Abyss/Img-Repository@master/20220717/web.tunhlj6uqr4.webp)
  
  </figure>
  
