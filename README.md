@@ -25,7 +25,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/ice-abyss/count.sv
 * :pencil:I enjoy writing code, it brings me joy:smile:.
 * :bust_in_silhouette:My dream is to be a full stack engineer:globe_with_meridians:.
 * 😀The high school entrance examination is over, the summer vacation is coming, I can learn computer programming, happy!😀
-* 😊I made a website to write my blog :https://iceabyss.cnurl.tk Welcom to see:)✌
+* 😊I made a website to write my blog :https://iceabyss.github.io Welcom to see:)✌
 
 
 <details>
