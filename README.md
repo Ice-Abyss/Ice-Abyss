@@ -8,6 +8,10 @@
 ![decription](https://img.shields.io/badge/IceAbyss-AutoIt-blue)
 ![decription](https://img.shields.io/badge/IceAbyss-Web-red)  
 
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+
 <figure class ="half">
  
   ![logo2_253x253](https://cdn.staticaly.com/gh/Ice-Abyss/Img-Repository@master/20220709/logo2_253x253.306gq4zoyls0.webp)
@@ -26,6 +30,12 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/ice-abyss/count.sv
 * :bust_in_silhouette:My dream is to be a full stack engineer:globe_with_meridians:.
 * 😀The high school entrance examination is over, the summer vacation is coming, I can learn computer programming, happy!😀
 * 😊I made a website to write my blog :https://iceabyss.github.io Welcom to see:)✌
+
+
+
+
+
+
 
 
 <details>
