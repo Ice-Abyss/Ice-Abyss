@@ -21,9 +21,13 @@
  
  
  
- 
+ <br>
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/ice-abyss/count.svg)visitor
+
+<br>
+
+
 * :wave:Hello,I am IceAbyss,a junior high school student:school:.
 * :book:My favorite programming language is Python:snake:.
 * :pencil:I enjoy writing code, it brings me joy:smile:.
@@ -31,7 +35,22 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/ice-abyss/count.sv
 * 😀The high school entrance examination is over, the summer vacation is coming, I can learn computer programming, happy!😀
 * 😊I made a website to write my blog :https://iceabyss.github.io Welcom to see:)✌
 
+<br>
 
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+
+
+<br />
+<br />
 
 <details>
 <summary>My Blog📜</summary>
