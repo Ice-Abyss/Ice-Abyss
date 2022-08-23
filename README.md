@@ -28,12 +28,12 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/ice-abyss/count.sv
 <br>
 
 
-* :wave:Hello,I am IceAbyss,a junior high school student:school:.
+* :wave:Hello,I am IceAbyss,a high school student:school:.
 * :book:My favorite programming language is Python:snake:.
 * :pencil:I enjoy writing code, it brings me joy:smile:.
 * :bust_in_silhouette:My dream is to be a full stack engineer:globe_with_meridians:.
-* 😀The high school entrance examination is over, the summer vacation is coming, I can learn computer programming, happy!😀
-* 😊I made a website to write my blog :https://iceabyss.github.io Welcom to see:)✌
+* 🙂Summer vacation is over, I have to go to school again🤔.
+* 😊I made a website to write my blog :https://iceabyss.tk Welcom to see:)✌
 
 <br>
 
@@ -54,15 +54,15 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/ice-abyss/count.sv
 
 <details>
 <summary>My Blog📜</summary>
-<pre>
-最新文章：
 
-   [Markdown语法篇](https://iceabyss.github.io/blog/4/4.html) 
-   [网络是如何运作的？](https://iceabyss.github.io/blog/3/3.html) 
-   [2D图片变3D？！](https://iceabyss.github.io/blog/2/2.html)
-   [Hello World! ](https://iceabyss.github.io/blog/1/1.html) 
- </pre>
-</figure></code>
+📜最新文章：  
+   ✨[i wanna 游戏制作（一）](https://iceabyss.tk/blog/5/5.html)  
+   ✨[Markdown语法篇](https://iceabyss.tk/blog/4/4.html)  
+   ✨[网络是如何运作的？](https://iceabyss.tk/blog/3/3.html)   
+   ✨[2D图片变3D？！](https://iceabyss.tk/blog/2/2.html)  
+   ✨[Hello World! ](https://iceabyss.tk/blog/1/1.html)   
+
+</figure>
 
 </details>
 
